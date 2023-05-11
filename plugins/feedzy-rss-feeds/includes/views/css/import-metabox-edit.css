@@ -1,0 +1,128 @@
+/**
+ * import-metabox-edit.css
+ *
+ * @since	1.2.0
+ * @package feedzy-rss-feeds-pro
+ */
+
+.feedzy-toggle {
+	visibility: hidden;
+	position: absolute;
+	margin-left: -9999px;
+}
+
+.feedzy-toggle + label {
+	display: block;
+	position: relative;
+	outline: none;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+input.feedzy-toggle-round + label {
+	width: 60px;
+	height: 22px;
+	border-radius: 22px;
+	background-color: #ddd;
+}
+
+input.feedzy-toggle-round + label:before,
+input.feedzy-toggle-round + label:after {
+	display: block;
+	position: absolute;
+	top: 1px;
+	bottom: 1px;
+	left: 1px;
+	content: "";
+}
+
+input.feedzy-toggle-round + label:before {
+	right: 1px;
+	border-radius: 15px;
+	background-color: #f1f1f1;
+	-webkit-transition: background 0.4s;
+	transition: background 0.4s;
+}
+
+input.feedzy-toggle-round + label:after {
+	width: 23px;
+	height: 23px;
+	border-radius: 100%;
+	background-color: #fff;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition: margin 0.4s;
+	transition: margin 0.4s;
+}
+
+input.feedzy-toggle-round:checked + label:before {
+	background-color: #44cf6c;
+}
+
+input.feedzy-toggle-round:checked + label:after {
+	margin-left: 36px;
+}
+
+input.feedzy-toggle-round + label {
+	padding: 2px;
+	background-color: #ddd;
+}
+
+input.feedzy-toggle-round + label:before,
+input.feedzy-toggle-round + label:after {
+	display: block;
+	position: absolute;
+	top: 1px;
+	bottom: 1px;
+	left: 1px;
+	content: "";
+}
+
+input.feedzy-toggle-round + label:before {
+	right: 1px;
+	border-radius: 15px;
+	background-color: #f1f1f1;
+	-webkit-transition: background 0.4s;
+	transition: background 0.4s;
+}
+
+input.feedzy-toggle-round + label:after {
+	border-radius: 100%;
+	background-color: #fff;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition: margin 0.4s;
+	transition: margin 0.4s;
+}
+span.feedzy-spinner {
+    float: none !important;
+}
+#TB_ajaxContent ul {
+	list-style: decimal;
+	margin-left: 20px;
+}
+
+#TB_ajaxContent ul li {
+    padding: 5px !important;
+}
+
+#TB_ajaxContent p.loading-img {
+	text-align: center;
+}
+
+#TB_ajaxContent.loaded p.hide-when-loaded {
+	display: none;
+}
+
+#TB_ajaxContent div.dry_run span {
+	display: block;
+}
+
+#TB_ajaxContent div.dry_run span i.pass {
+	color: #149714;
+}
+
+#TB_ajaxContent div.dry_run span i.fail {
+	color: #ca4a1f;
+}

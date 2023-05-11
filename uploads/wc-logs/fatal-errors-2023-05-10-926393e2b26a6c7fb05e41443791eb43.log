@@ -1,0 +1,768 @@
+2023-05-10T06:56:44+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:56:49+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:56:49+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:56:49+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:58:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:58:21+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:58:21+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:59:24+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T06:59:25+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:01:22+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:01:23+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:02:23+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:02:25+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:03:26+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:03:27+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:04:28+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:04:29+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:04:30+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:04:34+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:04:34+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:05:56+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:05:57+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:07:11+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:07:12+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:08:14+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:08:17+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:09:17+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:10:17+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:11:25+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:11:26+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:13:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:13:21+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:14:32+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:17:32+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:17:44+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:18:44+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:18:45+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:21:29+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:21:30+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:23:31+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:23:32+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:25:17+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:25:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:27:06+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:27:07+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:29:05+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:29:06+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:30:05+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:31:05+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:31:06+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:32:05+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:32:58+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:33:06+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:34:07+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:34:08+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:35:13+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:35:14+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:35:15+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:36:15+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:36:16+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:38:17+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:38:18+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:38:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:40:18+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:40:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:40:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:42:17+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:42:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:44:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:44:21+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:46:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T07:46:22+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:06:26+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:06:26+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:08:09+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:09:10+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:09:38+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:10:03+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:10:46+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:11:50+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:11:52+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:13:49+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:13:50+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:15:50+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:17:51+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:17:52+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:19:52+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:19:53+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:38:13+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:38:14+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:39:28+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:39:29+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:40:30+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:40:33+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:40:52+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:43:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:45:22+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:45:23+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:47:23+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:47:24+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:49:24+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:49:25+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:51:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:51:21+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:52:40+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:52:42+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:53:44+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:53:45+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:54:45+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:54:46+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:55:51+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:55:52+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:57:42+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:57:44+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:58:51+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:58:53+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:59:56+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:59:57+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:59:58+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T22:59:58+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:00:56+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:00:56+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:00:58+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:01:58+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:01:59+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:02:00+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:02:00+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
+2023-05-10T23:02:01+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 378 and defined in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php:516
+Stack trace:
+#0 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies(false)
+#1 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation(Object(WC_Product_Variation))
+#2 C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttribute in C:\xampp\htdocs\Besire\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 516
+
